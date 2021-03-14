@@ -1,0 +1,214 @@
+/**
+* @name Kawaii catgirl
+* @author Logos King
+* @version 0.0.1
+* @description Kawaii Desu
+*/
+/*@import url(https://puckzxz.github.io/NotAnotherAnimeTheme/css/scsl.css);*/
+@import url(http://localhost:8000/CatGirlTheme/Discolored.css);
+@import url(http://localhost:8000/CatGirlTheme/app/import.css);
+:root {
+    --background-image: url(https://logos-king.is-inside.me/dtPfm8BA.jpg);
+    --friends-icon: url(https://i.imgur.com/63g6Em8.jpg);
+    --main-transparency: rgba(0, 0, 0, 0.5);
+    --unread-server-animation: rainbow;
+    --hover-list-bg-color: rgba(255, 255, 255, .15);
+    --border-lines-color: hsla(0,0%,100%,.1);
+    --font-size: 16px;
+    --selected-text-voice-color: #f6f6f7;
+    --channel-hover-text-color: rgba(255, 255, 255, 0.75);
+    --unread-text-color: #dcddde;
+    --user-popout-background: rbga(255, 255, 255, 1);
+    /*Defaults to rgb(54, 57, 63)*/
+    --background-primary: var(--main-transparency);
+    /* Defaults to rgb(rgba(47, 49, 54)*/
+    --background-secondary: var(--main-transparency);
+    /*Defaults to rgb(32, 34, 37)*/
+    --background-tertiary: var(--main-transparency);
+}
+/** Friends Icon */
+.tutorialContainer-1v44GL .listItem-2P_4kh .listItemWrapper-3X98Pc .wrapper-25eVIn {
+    background: var(--friends-icon) !important;
+    background-repeat: no-repeat !important;
+    background-size: 100% !important;
+    border-radius: 100%;
+}
+.tutorialContainer-1v44GL .listItem-2P_4kh .listItemWrapper-3X98Pc .wrapper-25eVIn svg {
+    opacity: 0;
+}
+/** Background */
+.appMount-3lHmkl, [class~=app], .app-2rEoOp, .bg-h5JY_x {
+    background: var(--background-image) !important;
+    background-size: cover !important;
+}
+.circleIconButton-jET_ig {
+    background: rgba(0,0,0,.4);
+    color: rgba(255,255,255,.15);
+}
+/** Transparency */
+.theme-dark .children-19S4PO:after { background:none; }
+.container-3w7J-x {
+    background-color: transparent !important;
+}
+/* Removes some weird things */
+.form-2fGMdU:before {
+    background: transparent !important;
+}
+.panels-j1Uci_ {
+    background-color: transparent !important;
+}
+.scroller-2TZvBN {
+    background-color: transparent;
+}
+.members-1998pB, .members-1998pB>div {
+    background-color: transparent;
+}
+.app-1q1i1E {
+    background: transparent;
+}
+.typeWindows-1za-n7 {
+    height: 23px;
+    margin-top: 0px;
+    background: var(--main-transparency);
+}
+.scrollableContainer-2NUZem {
+    background-color: rgba(0,0,0,0.6);
+}
+.channelTextArea-rNsIhG {
+    background-color: transparent;
+}
+.embedFull-2tM8-- {
+    background: rgba(0,0,0,0.4);
+}
+.wrapper-3vR61M, .wrapper-1F5TKx {
+    background-color: transparent !important;
+}
+.scroller-1JbKMe {
+    background-color: transparent;
+}
+.privateChannels-1nO12o {
+    background-color: rgba(0,0,0,0);
+}
+.container-1r6BKw {
+    background: rgba(255, 255, 255, 0) !important;
+}
+.container-1D34oG {
+    background-color: var(--main-transparency) !important;
+}
+/*Friends Transparency*/
+.wrapper-3D2qGf {
+    background-color: rgba(0,0,0,0.4);
+}
+.nowPlayingColumn-2sl4cE {
+    background:transparent;
+}
+/*Settings transparency*/
+.contentRegionScroller-26nc1e {
+    background-color: transparent;
+}
+.theme-dark .contentRegion-3nDuYy {
+    background: transparent;
+}
+.theme-dark .layer-3QrUeG, .theme-dark .layers-3iHuyZ {
+    background: rgba(0, 0, 0, 0);
+}
+.sidebarRegionScroller-3MXcoP {
+    background: transparent;
+}
+/*Full screen settings*/
+.sidebar-CFHs9e{padding-top: 10px;padding-bottom: 10px;padding-left: 0px;}
+.sidebarRegion-VFTUkN {flex: 0 0 auto;}
+.contentColumn-2hrIYH, .customColumn-Rb6toI {max-width: unset;}
+.platform-osx .sidebar-CFHs9e{padding-top: 30px;}
+.container-2VW0UT{width:180%;}
+/**/
+
+/** Scrollbars */
+.theme-dark .friends-table .scroller-wrap ::-webkit-scrollbar-track-piece, .theme-dark .messages-wrapper .scroller-wrap ::-webkit-scrollbar-track-piece {
+    background-color: rgba(0, 0, 0, 0);
+    border-color: rgba(0, 0, 0, 0);
+}
+
+.theme-dark .friends-table .scroller-wrap ::-webkit-scrollbar-thumb, .theme-dark .messages-wrapper .scroller-wrap ::-webkit-scrollbar-thumb {
+    background-color: rgba(0, 0, 0, 0.0);
+    border-color: rgba(0, 0, 0, 0);
+}
+.scroller-wrap .scroller::-webkit-scrollbar-track-piece {
+    background-color: rgba(255, 255, 255, .5);
+}
+
+.scroller-wrap .scroller::-webkit-scrollbar-thumb, .scroller-wrap .scroller::-webkit-scrollbar-track-piece {
+    background-clip: padding-box;
+    background-color: var(--scroll-bar-color);
+    border: 3px solid rgba(0, 0, 0, 0);
+    border-radius: 7px;
+}
+
+.theme-dark .friends-table .scroller-wrap ::-webkit-scrollbar-track-piece, .theme-dark .messages-wrapper .scroller-wrap ::-webkit-scrollbar-track-piece {
+    background-color: rgba(0, 0, 0, 0);
+    border-color: rgba(0, 0, 0, 0);
+}
+
+.theme-dark .friends-table .scroller-wrap ::-webkit-scrollbar-thumb, .theme-dark .messages-wrapper .scroller-wrap ::-webkit-scrollbar-thumb {
+    background-color: var(--scroll-bar-color);
+    border-color: var(--scroll-bar-color);
+}
+
+.theme-dark .scrollerThemed-2oenus.themeGhostHairline-DBD-2d .scroller-2FKFPG::-webkit-scrollbar-thumb {
+    background-color: var(--scroll-bar-color);
+}
+
+.scrollerThemed-2oenus.themeGhostHairlineChannels-3G0x9_ .scroller-2FKFPG::-webkit-scrollbar-thumb {
+    background-color: var(--scroll-bar-color);
+}
+.theme-dark .messagesWrapper-3lZDfY .scroller-wrap ::-webkit-scrollbar-track-piece {
+    background-color: rgba(47, 49, 54, 0);
+    border-color: rgba(54, 57, 63, 0);
+}
+
+.theme-dark .messagesWrapper-3lZDfY .scroller-wrap ::-webkit-scrollbar-thumb {
+    background-color: var(--scroll-bar-color);
+    border-color: rgba(54, 57, 63, 0);
+}
+.scroller-wrap .scroller::-webkit-scrollbar {
+    width: 12px !important;
+}
+
+.bda-dark .emoji-picker .scroller::-webkit-scrollbar, .bda-dark .emoji-picker .scroller::-webkit-scrollbar-track, .bda-dark .emoji-picker .scroller::-webkit-scrollbar-track-piece, .bda-dark .emojiPicker-3m1S-j .scroller-3vODG7::-webkit-scrollbar, .bda-dark .emojiPicker-3m1S-j .scroller-3vODG7::-webkit-scrollbar-track, .bda-dark .emojiPicker-3m1S-j .scroller-3vODG7::-webkit-scrollbar-track-piece {
+    background-color: rgba(0,0,0,0) !important;
+    border-color: rgba(0,0,0,0) !important;
+}
+
+.scrollerThemed-2oenus.themeLight-1_DWyY .scroller-2FKFPG::-webkit-scrollbar-thumb, .theme-dark .scrollerThemed-2oenus.themeLight-1_DWyY .scroller-2FKFPG::-webkit-scrollbar-thumb, .theme-light .scrollerWrap-2lJEkd .scroller-2FKFPG::-webkit-scrollbar-thumb {
+    background-color: var(--scroll-bar-color);
+}
+.theme-dark .scrollerThemed-2oenus.themedWithTrack-q8E3vB .scroller-2FKFPG::-webkit-scrollbar-track-piece {
+    background-color: rgba(0, 0, 0, 0);
+    border: 3px solid rgba(0, 0, 0, 0);
+    border-radius: 7px;
+}
+
+.theme-dark .scrollerThemed-2oenus.themedWithTrack-q8E3vB .scroller-2FKFPG::-webkit-scrollbar-thumb {
+    background-color: var(--scroll-bar-color);
+    border-color: rgba(0, 0, 0, 0);
+}
+.scrollerThemed-2oenus.themeLight-1_DWyY.scrollerTrack-1ZIpsv>.scroller-2FKFPG::-webkit-scrollbar-track, .theme-dark .scrollerThemed-2oenus.themeLight-1_DWyY.scrollerTrack-1ZIpsv>.scroller-2FKFPG::-webkit-scrollbar-track, .theme-light .scrollerWrap-2lJEkd.scrollerTrack-1ZIpsv>.scroller-2FKFPG::-webkit-scrollbar-track {
+    background-color: rgba(255,255,255,.15);
+}
+.scrollerThemed-2oenus.themeGhost-28MSn0 .scroller-2FKFPG::-webkit-scrollbar-thumb {
+    background-color: rgba(255,255,255,0.15);
+    border-color: transparent;
+}
+.scrollerThemed-2oenus.themeDark-2cjlUp .scroller-2FKFPG::-webkit-scrollbar-thumb, .theme-dark .scrollerWrap-2lJEkd .scroller-2FKFPG::-webkit-scrollbar-thumb, .theme-light .scrollerThemed-2oenus.themeDark-2cjlUp .scroller-2FKFPG::-webkit-scrollbar-thumb {
+    background-color: rgba(255,255,255,0.15);
+    border-color: transparent;
+}
+.scrollerThemed-2oenus.themeDark-2cjlUp.scrollerTrack-1ZIpsv>.scroller-2FKFPG::-webkit-scrollbar-track, .scrollerThemed-2oenus.themeDark-2cjlUp.scrollerTrack-1ZIpsv>.scrollerStore-390omS::-webkit-scrollbar-track, .theme-dark .scrollerWrap-2lJEkd.scrollerTrack-1ZIpsv>.scroller-2FKFPG::-webkit-scrollbar-track, .theme-dark .scrollerWrap-2lJEkd.scrollerTrack-1ZIpsv>.scrollerStore-390omS::-webkit-scrollbar-track, .theme-light .scrollerThemed-2oenus.themeDark-2cjlUp.scrollerTrack-1ZIpsv>.scroller-2FKFPG::-webkit-scrollbar-track, .theme-light .scrollerThemed-2oenus.themeDark-2cjlUp.scrollerTrack-1ZIpsv>.scrollerStore-390omS::-webkit-scrollbar-track {
+    background-color: rgba(255,255,255,0.15);
+}.auto-Ge5KZx::-webkit-scrollbar-thumb {
+    background-color: var(--scroll-bar-color);
+}
+
+.auto-Ge5KZx::-webkit-scrollbar-track {
+    background-color: transparent;
+}
