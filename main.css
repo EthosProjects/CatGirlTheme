@@ -1,0 +1,354 @@
+.theme-dark body {
+  background: var(--undecided-background-color);
+}
+.theme-dark body .appMount-2yBXZl {
+  background: var(--undecided-background-primary);
+}
+.theme-dark body .appMount-2yBXZl .layer-86YKbF,
+.theme-dark body .appMount-2yBXZl .app-2CXKsg,
+.theme-dark body .appMount-2yBXZl .bg-1QIAus {
+  background: transparent;
+  /** Servers bar*/
+  /** Sidebar*/
+  /** Friends area*/
+  /** Nitro Page*/
+}
+.theme-dark body .appMount-2yBXZl .layer-86YKbF .wrapper-1_HaEi,
+.theme-dark body .appMount-2yBXZl .app-2CXKsg .wrapper-1_HaEi,
+.theme-dark body .appMount-2yBXZl .bg-1QIAus .wrapper-1_HaEi {
+  background: transparent;
+}
+.theme-dark body .appMount-2yBXZl .layer-86YKbF .wrapper-1_HaEi .scroller-3X7KbA,
+.theme-dark body .appMount-2yBXZl .app-2CXKsg .wrapper-1_HaEi .scroller-3X7KbA,
+.theme-dark body .appMount-2yBXZl .bg-1QIAus .wrapper-1_HaEi .scroller-3X7KbA {
+  background: transparent;
+  /** Expanded folders*/
+}
+.theme-dark body .appMount-2yBXZl .layer-86YKbF .wrapper-1_HaEi .scroller-3X7KbA .expanded .expandedFolderBackground-1kSAf6,
+.theme-dark body .appMount-2yBXZl .layer-86YKbF .wrapper-1_HaEi .scroller-3X7KbA .expanded .folder-241Joy,
+.theme-dark body .appMount-2yBXZl .app-2CXKsg .wrapper-1_HaEi .scroller-3X7KbA .expanded .expandedFolderBackground-1kSAf6,
+.theme-dark body .appMount-2yBXZl .app-2CXKsg .wrapper-1_HaEi .scroller-3X7KbA .expanded .folder-241Joy,
+.theme-dark body .appMount-2yBXZl .bg-1QIAus .wrapper-1_HaEi .scroller-3X7KbA .expanded .expandedFolderBackground-1kSAf6,
+.theme-dark body .appMount-2yBXZl .bg-1QIAus .wrapper-1_HaEi .scroller-3X7KbA .expanded .folder-241Joy {
+  background: rgba(0, 0, 0, 0.5);
+}
+.theme-dark body .appMount-2yBXZl .layer-86YKbF .wrapper-1_HaEi .scroller-3X7KbA .tutorialContainer-1pL9QS .childWrapper-1j_1ub,
+.theme-dark body .appMount-2yBXZl .layer-86YKbF .wrapper-1_HaEi .scroller-3X7KbA .circleIconButton-1VxDrg,
+.theme-dark body .appMount-2yBXZl .app-2CXKsg .wrapper-1_HaEi .scroller-3X7KbA .tutorialContainer-1pL9QS .childWrapper-1j_1ub,
+.theme-dark body .appMount-2yBXZl .app-2CXKsg .wrapper-1_HaEi .scroller-3X7KbA .circleIconButton-1VxDrg,
+.theme-dark body .appMount-2yBXZl .bg-1QIAus .wrapper-1_HaEi .scroller-3X7KbA .tutorialContainer-1pL9QS .childWrapper-1j_1ub,
+.theme-dark body .appMount-2yBXZl .bg-1QIAus .wrapper-1_HaEi .scroller-3X7KbA .circleIconButton-1VxDrg {
+  background: black;
+}
+.theme-dark body .appMount-2yBXZl .layer-86YKbF .sidebar-1tnWFu,
+.theme-dark body .appMount-2yBXZl .app-2CXKsg .sidebar-1tnWFu,
+.theme-dark body .appMount-2yBXZl .bg-1QIAus .sidebar-1tnWFu {
+  background: transparent;
+}
+.theme-dark body .appMount-2yBXZl .layer-86YKbF .sidebar-1tnWFu .privateChannels-oVe7HL,
+.theme-dark body .appMount-2yBXZl .layer-86YKbF .sidebar-1tnWFu .scroller-WSmht3,
+.theme-dark body .appMount-2yBXZl .layer-86YKbF .sidebar-1tnWFu .container-1NXEtd,
+.theme-dark body .appMount-2yBXZl .app-2CXKsg .sidebar-1tnWFu .privateChannels-oVe7HL,
+.theme-dark body .appMount-2yBXZl .app-2CXKsg .sidebar-1tnWFu .scroller-WSmht3,
+.theme-dark body .appMount-2yBXZl .app-2CXKsg .sidebar-1tnWFu .container-1NXEtd,
+.theme-dark body .appMount-2yBXZl .bg-1QIAus .sidebar-1tnWFu .privateChannels-oVe7HL,
+.theme-dark body .appMount-2yBXZl .bg-1QIAus .sidebar-1tnWFu .scroller-WSmht3,
+.theme-dark body .appMount-2yBXZl .bg-1QIAus .sidebar-1tnWFu .container-1NXEtd {
+  background: transparent;
+}
+.theme-dark body .appMount-2yBXZl .layer-86YKbF .sidebar-1tnWFu .panels-3wFtMD,
+.theme-dark body .appMount-2yBXZl .app-2CXKsg .sidebar-1tnWFu .panels-3wFtMD,
+.theme-dark body .appMount-2yBXZl .bg-1QIAus .sidebar-1tnWFu .panels-3wFtMD {
+  background: var(--undecided-background-primary);
+}
+.theme-dark body .appMount-2yBXZl .layer-86YKbF .sidebar-1tnWFu .searchBarComponent-3N7dCG,
+.theme-dark body .appMount-2yBXZl .app-2CXKsg .sidebar-1tnWFu .searchBarComponent-3N7dCG,
+.theme-dark body .appMount-2yBXZl .bg-1QIAus .sidebar-1tnWFu .searchBarComponent-3N7dCG {
+  background: var(--undecided-background-tertiary);
+}
+.theme-dark body .appMount-2yBXZl .layer-86YKbF .container-2cd8Mz,
+.theme-dark body .appMount-2yBXZl .app-2CXKsg .container-2cd8Mz,
+.theme-dark body .appMount-2yBXZl .bg-1QIAus .container-2cd8Mz {
+  background: transparent;
+}
+.theme-dark body .appMount-2yBXZl .layer-86YKbF .container-2cd8Mz .container-2oNtJn,
+.theme-dark body .appMount-2yBXZl .app-2CXKsg .container-2cd8Mz .container-2oNtJn,
+.theme-dark body .appMount-2yBXZl .bg-1QIAus .container-2cd8Mz .container-2oNtJn {
+  background: var(--undecided-background-tertiary);
+}
+.theme-dark body .appMount-2yBXZl .layer-86YKbF .container-2cd8Mz .actionButton-3-B2x-,
+.theme-dark body .appMount-2yBXZl .app-2CXKsg .container-2cd8Mz .actionButton-3-B2x-,
+.theme-dark body .appMount-2yBXZl .bg-1QIAus .container-2cd8Mz .actionButton-3-B2x- {
+  background: var(--undecided-background-secondary);
+}
+.theme-dark body .appMount-2yBXZl .layer-86YKbF .container-2cd8Mz .themed-Hp1KC_,
+.theme-dark body .appMount-2yBXZl .app-2CXKsg .container-2cd8Mz .themed-Hp1KC_,
+.theme-dark body .appMount-2yBXZl .bg-1QIAus .container-2cd8Mz .themed-Hp1KC_ {
+  background: transparent;
+}
+.theme-dark body .appMount-2yBXZl .layer-86YKbF .container-2cd8Mz .nowPlayingColumn-1eCBCN,
+.theme-dark body .appMount-2yBXZl .app-2CXKsg .container-2cd8Mz .nowPlayingColumn-1eCBCN,
+.theme-dark body .appMount-2yBXZl .bg-1QIAus .container-2cd8Mz .nowPlayingColumn-1eCBCN {
+  background: transparent;
+}
+.theme-dark body .appMount-2yBXZl .layer-86YKbF .container-2cd8Mz .nowPlayingColumn-1eCBCN .container-1oAagU,
+.theme-dark body .appMount-2yBXZl .app-2CXKsg .container-2cd8Mz .nowPlayingColumn-1eCBCN .container-1oAagU,
+.theme-dark body .appMount-2yBXZl .bg-1QIAus .container-2cd8Mz .nowPlayingColumn-1eCBCN .container-1oAagU {
+  background: transparent;
+}
+.theme-dark body .appMount-2yBXZl .layer-86YKbF .container-2cd8Mz .nowPlayingColumn-1eCBCN .container-1oAagU .wrapper-2RrXDg,
+.theme-dark body .appMount-2yBXZl .app-2CXKsg .container-2cd8Mz .nowPlayingColumn-1eCBCN .container-1oAagU .wrapper-2RrXDg,
+.theme-dark body .appMount-2yBXZl .bg-1QIAus .container-2cd8Mz .nowPlayingColumn-1eCBCN .container-1oAagU .wrapper-2RrXDg {
+  background: var(--undecided-background-secondary);
+}
+.theme-dark body .appMount-2yBXZl .layer-86YKbF .container-2cd8Mz .nowPlayingColumn-1eCBCN .container-1oAagU .wrapper-2RrXDg .inset-SbsSFp,
+.theme-dark body .appMount-2yBXZl .app-2CXKsg .container-2cd8Mz .nowPlayingColumn-1eCBCN .container-1oAagU .wrapper-2RrXDg .inset-SbsSFp,
+.theme-dark body .appMount-2yBXZl .bg-1QIAus .container-2cd8Mz .nowPlayingColumn-1eCBCN .container-1oAagU .wrapper-2RrXDg .inset-SbsSFp {
+  background: transparent;
+}
+.theme-dark body .appMount-2yBXZl .layer-86YKbF .container-2cd8Mz .nowPlayingColumn-1eCBCN .container-1oAagU .wrapper-2RrXDg .inset-SbsSFp .section-3G9aLW,
+.theme-dark body .appMount-2yBXZl .app-2CXKsg .container-2cd8Mz .nowPlayingColumn-1eCBCN .container-1oAagU .wrapper-2RrXDg .inset-SbsSFp .section-3G9aLW,
+.theme-dark body .appMount-2yBXZl .bg-1QIAus .container-2cd8Mz .nowPlayingColumn-1eCBCN .container-1oAagU .wrapper-2RrXDg .inset-SbsSFp .section-3G9aLW {
+  border: 1px solid #2f3136;
+  background: rgba(255, 255, 255, 0.0832855413);
+}
+.theme-dark body .appMount-2yBXZl .layer-86YKbF .container-2cd8Mz .nowPlayingColumn-1eCBCN .container-1oAagU .emptyCard-KDifrB,
+.theme-dark body .appMount-2yBXZl .app-2CXKsg .container-2cd8Mz .nowPlayingColumn-1eCBCN .container-1oAagU .emptyCard-KDifrB,
+.theme-dark body .appMount-2yBXZl .bg-1QIAus .container-2cd8Mz .nowPlayingColumn-1eCBCN .container-1oAagU .emptyCard-KDifrB {
+  background: transparent;
+}
+.theme-dark body .appMount-2yBXZl .layer-86YKbF .applicationStore-2nk7Lo,
+.theme-dark body .appMount-2yBXZl .app-2CXKsg .applicationStore-2nk7Lo,
+.theme-dark body .appMount-2yBXZl .bg-1QIAus .applicationStore-2nk7Lo {
+  background: transparent;
+}
+.theme-dark body .appMount-2yBXZl .layer-86YKbF .applicationStore-2nk7Lo .container-ZMc96U.themed-Hp1KC_,
+.theme-dark body .appMount-2yBXZl .app-2CXKsg .applicationStore-2nk7Lo .container-ZMc96U.themed-Hp1KC_,
+.theme-dark body .appMount-2yBXZl .bg-1QIAus .applicationStore-2nk7Lo .container-ZMc96U.themed-Hp1KC_ {
+  background: transparent;
+}
+.theme-dark body .appMount-2yBXZl .layer-86YKbF .applicationStore-2nk7Lo .scroller-29cQFV,
+.theme-dark body .appMount-2yBXZl .app-2CXKsg .applicationStore-2nk7Lo .scroller-29cQFV,
+.theme-dark body .appMount-2yBXZl .bg-1QIAus .applicationStore-2nk7Lo .scroller-29cQFV {
+  background: transparent;
+}
+.theme-dark body .appMount-2yBXZl .layer-86YKbF .applicationStore-2nk7Lo .scroller-29cQFV .subscriptionsRedirectContainer-zD3U79,
+.theme-dark body .appMount-2yBXZl .app-2CXKsg .applicationStore-2nk7Lo .scroller-29cQFV .subscriptionsRedirectContainer-zD3U79,
+.theme-dark body .appMount-2yBXZl .bg-1QIAus .applicationStore-2nk7Lo .scroller-29cQFV .subscriptionsRedirectContainer-zD3U79 {
+  background: var(--undecided-background-secondary);
+}
+.theme-dark body .appMount-2yBXZl .layer-86YKbF .applicationStore-2nk7Lo .scroller-29cQFV .feature-2IUcBI,
+.theme-dark body .appMount-2yBXZl .app-2CXKsg .applicationStore-2nk7Lo .scroller-29cQFV .feature-2IUcBI,
+.theme-dark body .appMount-2yBXZl .bg-1QIAus .applicationStore-2nk7Lo .scroller-29cQFV .feature-2IUcBI {
+  background: var(--undecided-background-secondary-alt);
+}
+.theme-dark body .appMount-2yBXZl .layer-86YKbF .chat-2ZfjoI,
+.theme-dark body .appMount-2yBXZl .app-2CXKsg .chat-2ZfjoI,
+.theme-dark body .appMount-2yBXZl .bg-1QIAus .chat-2ZfjoI {
+  background: transparent;
+  /** Unloaded messages*/
+  /** Date separators*/
+  /** Message bar*/
+}
+.theme-dark body .appMount-2yBXZl .layer-86YKbF .chat-2ZfjoI .themed-Hp1KC_,
+.theme-dark body .appMount-2yBXZl .app-2CXKsg .chat-2ZfjoI .themed-Hp1KC_,
+.theme-dark body .appMount-2yBXZl .bg-1QIAus .chat-2ZfjoI .themed-Hp1KC_ {
+  background: transparent;
+}
+.theme-dark body .appMount-2yBXZl .layer-86YKbF .chat-2ZfjoI .themed-Hp1KC_ .searchBar-jGtisZ,
+.theme-dark body .appMount-2yBXZl .app-2CXKsg .chat-2ZfjoI .themed-Hp1KC_ .searchBar-jGtisZ,
+.theme-dark body .appMount-2yBXZl .bg-1QIAus .chat-2ZfjoI .themed-Hp1KC_ .searchBar-jGtisZ {
+  background: var(--undecided-background-tertiary);
+}
+.theme-dark body .appMount-2yBXZl .layer-86YKbF .chat-2ZfjoI .themed-Hp1KC_ .children-3xh0VB::after,
+.theme-dark body .appMount-2yBXZl .app-2CXKsg .chat-2ZfjoI .themed-Hp1KC_ .children-3xh0VB::after,
+.theme-dark body .appMount-2yBXZl .bg-1QIAus .chat-2ZfjoI .themed-Hp1KC_ .children-3xh0VB::after {
+  background: none;
+}
+.theme-dark body .appMount-2yBXZl .layer-86YKbF .chat-2ZfjoI .wrapper-3HVHpV,
+.theme-dark body .appMount-2yBXZl .app-2CXKsg .chat-2ZfjoI .wrapper-3HVHpV,
+.theme-dark body .appMount-2yBXZl .bg-1QIAus .chat-2ZfjoI .wrapper-3HVHpV {
+  background: transparent;
+}
+.theme-dark body .appMount-2yBXZl .layer-86YKbF .chat-2ZfjoI .wrapper-3HVHpV .wrapper-15CKyy,
+.theme-dark body .appMount-2yBXZl .app-2CXKsg .chat-2ZfjoI .wrapper-3HVHpV .wrapper-15CKyy,
+.theme-dark body .appMount-2yBXZl .bg-1QIAus .chat-2ZfjoI .wrapper-3HVHpV .wrapper-15CKyy {
+  background: transparent;
+}
+.theme-dark body .appMount-2yBXZl .layer-86YKbF .chat-2ZfjoI .content-3spvdd,
+.theme-dark body .appMount-2yBXZl .app-2CXKsg .chat-2ZfjoI .content-3spvdd,
+.theme-dark body .appMount-2yBXZl .bg-1QIAus .chat-2ZfjoI .content-3spvdd {
+  background: transparent;
+}
+.theme-dark body .appMount-2yBXZl .layer-86YKbF .chat-2ZfjoI .form-3gdLxP:before,
+.theme-dark body .appMount-2yBXZl .app-2CXKsg .chat-2ZfjoI .form-3gdLxP:before,
+.theme-dark body .appMount-2yBXZl .bg-1QIAus .chat-2ZfjoI .form-3gdLxP:before {
+  background: transparent !important;
+}
+.theme-dark body .appMount-2yBXZl .layer-86YKbF .chat-2ZfjoI .form-3gdLxP .channelTextArea-1FufC0,
+.theme-dark body .appMount-2yBXZl .app-2CXKsg .chat-2ZfjoI .form-3gdLxP .channelTextArea-1FufC0,
+.theme-dark body .appMount-2yBXZl .bg-1QIAus .chat-2ZfjoI .form-3gdLxP .channelTextArea-1FufC0 {
+  background: transparent;
+}
+.theme-dark body .appMount-2yBXZl .layer-86YKbF .chat-2ZfjoI .form-3gdLxP .channelTextArea-1FufC0 .attachedBars-2BCP3l,
+.theme-dark body .appMount-2yBXZl .app-2CXKsg .chat-2ZfjoI .form-3gdLxP .channelTextArea-1FufC0 .attachedBars-2BCP3l,
+.theme-dark body .appMount-2yBXZl .bg-1QIAus .chat-2ZfjoI .form-3gdLxP .channelTextArea-1FufC0 .attachedBars-2BCP3l {
+  background: var(--undecided-background-secondary);
+}
+.theme-dark body .appMount-2yBXZl .layer-86YKbF .chat-2ZfjoI .form-3gdLxP .channelTextArea-1FufC0 .attachedBars-2BCP3l .replyBar-1oi75v,
+.theme-dark body .appMount-2yBXZl .app-2CXKsg .chat-2ZfjoI .form-3gdLxP .channelTextArea-1FufC0 .attachedBars-2BCP3l .replyBar-1oi75v,
+.theme-dark body .appMount-2yBXZl .bg-1QIAus .chat-2ZfjoI .form-3gdLxP .channelTextArea-1FufC0 .attachedBars-2BCP3l .replyBar-1oi75v {
+  background: transparent;
+}
+.theme-dark body .appMount-2yBXZl .layer-86YKbF .chat-2ZfjoI .form-3gdLxP .channelTextArea-1FufC0 .scrollableContainer-15eg7h,
+.theme-dark body .appMount-2yBXZl .app-2CXKsg .chat-2ZfjoI .form-3gdLxP .channelTextArea-1FufC0 .scrollableContainer-15eg7h,
+.theme-dark body .appMount-2yBXZl .bg-1QIAus .chat-2ZfjoI .form-3gdLxP .channelTextArea-1FufC0 .scrollableContainer-15eg7h {
+  background: var(--undecided-message-input-background);
+}
+.theme-dark body .appMount-2yBXZl .layer-86YKbF .chat-2ZfjoI .form-3gdLxP .channelTextArea-1FufC0 path,
+.theme-dark body .appMount-2yBXZl .app-2CXKsg .chat-2ZfjoI .form-3gdLxP .channelTextArea-1FufC0 path,
+.theme-dark body .appMount-2yBXZl .bg-1QIAus .chat-2ZfjoI .form-3gdLxP .channelTextArea-1FufC0 path {
+  fill: #323232 !important;
+}
+.theme-dark body .appMount-2yBXZl .layer-86YKbF .chat-2ZfjoI .form-3gdLxP .channelTextArea-1FufC0 .sprite-2lxwfc,
+.theme-dark body .appMount-2yBXZl .app-2CXKsg .chat-2ZfjoI .form-3gdLxP .channelTextArea-1FufC0 .sprite-2lxwfc,
+.theme-dark body .appMount-2yBXZl .bg-1QIAus .chat-2ZfjoI .form-3gdLxP .channelTextArea-1FufC0 .sprite-2lxwfc {
+  filter: url('data:image/svg+xml,                    <svg xmlns="http://www.w3.org/2000/svg">                      <filter id="waves" x="0" y="0" width="100%" height="100%" filterUnits="objectBoundingBox" primitiveUnits="userSpaceOnUse" color-interpolation-filters="sRGB">                      <feColorMatrix type="matrix"                       values="-0.3 -0.59 -0.11 0 1                               -0.3 -0.59 -0.11 0 1                              -0.3 -0.59 -0.11 0 1                               0 0 0 1 0" />                       </filter>                    </svg>#waves') !important;
+}
+.theme-dark body .appMount-2yBXZl .layer-86YKbF .chat-2ZfjoI .searchResultsWrap-5RVOkx,
+.theme-dark body .appMount-2yBXZl .app-2CXKsg .chat-2ZfjoI .searchResultsWrap-5RVOkx,
+.theme-dark body .appMount-2yBXZl .bg-1QIAus .chat-2ZfjoI .searchResultsWrap-5RVOkx {
+  background: var(--undecided-background-secondary);
+}
+.theme-dark body .appMount-2yBXZl .layer-86YKbF .chat-2ZfjoI .searchResultsWrap-5RVOkx .searchHeader-1r_ZSh,
+.theme-dark body .appMount-2yBXZl .app-2CXKsg .chat-2ZfjoI .searchResultsWrap-5RVOkx .searchHeader-1r_ZSh,
+.theme-dark body .appMount-2yBXZl .bg-1QIAus .chat-2ZfjoI .searchResultsWrap-5RVOkx .searchHeader-1r_ZSh {
+  background: var(--undecided-background-tertiary);
+}
+.theme-dark body .appMount-2yBXZl .layer-86YKbF .chat-2ZfjoI .searchResultsWrap-5RVOkx .channelName-3w2Y3c,
+.theme-dark body .appMount-2yBXZl .app-2CXKsg .chat-2ZfjoI .searchResultsWrap-5RVOkx .channelName-3w2Y3c,
+.theme-dark body .appMount-2yBXZl .bg-1QIAus .chat-2ZfjoI .searchResultsWrap-5RVOkx .channelName-3w2Y3c {
+  background: transparent;
+}
+.theme-dark body .appMount-2yBXZl .layer-86YKbF .chat-2ZfjoI .searchResultsWrap-5RVOkx .searchResult-O9NDji,
+.theme-dark body .appMount-2yBXZl .app-2CXKsg .chat-2ZfjoI .searchResultsWrap-5RVOkx .searchResult-O9NDji,
+.theme-dark body .appMount-2yBXZl .bg-1QIAus .chat-2ZfjoI .searchResultsWrap-5RVOkx .searchResult-O9NDji {
+  background: rgba(255, 255, 255, 0.0832855413);
+}
+.theme-dark body .appMount-2yBXZl .layer-86YKbF .chat-2ZfjoI .searchResultsWrap-5RVOkx .button-cfOvv-,
+.theme-dark body .appMount-2yBXZl .app-2CXKsg .chat-2ZfjoI .searchResultsWrap-5RVOkx .button-cfOvv-,
+.theme-dark body .appMount-2yBXZl .bg-1QIAus .chat-2ZfjoI .searchResultsWrap-5RVOkx .button-cfOvv- {
+  background: var(--undecided-background-tertiary);
+}
+.theme-dark body .appMount-2yBXZl .layer-86YKbF .chat-2ZfjoI .container-2o3qEW,
+.theme-dark body .appMount-2yBXZl .layer-86YKbF .chat-2ZfjoI .members-3WRCEx,
+.theme-dark body .appMount-2yBXZl .layer-86YKbF .chat-2ZfjoI .members-3WRCEx div,
+.theme-dark body .appMount-2yBXZl .app-2CXKsg .chat-2ZfjoI .container-2o3qEW,
+.theme-dark body .appMount-2yBXZl .app-2CXKsg .chat-2ZfjoI .members-3WRCEx,
+.theme-dark body .appMount-2yBXZl .app-2CXKsg .chat-2ZfjoI .members-3WRCEx div,
+.theme-dark body .appMount-2yBXZl .bg-1QIAus .chat-2ZfjoI .container-2o3qEW,
+.theme-dark body .appMount-2yBXZl .bg-1QIAus .chat-2ZfjoI .members-3WRCEx,
+.theme-dark body .appMount-2yBXZl .bg-1QIAus .chat-2ZfjoI .members-3WRCEx div {
+  background: transparent;
+}
+.theme-dark body .appMount-2yBXZl .layerContainer-2v_Sit .menu-1QACrS {
+  background: var(--undecided-background-floating);
+}
+.theme-dark body .appMount-2yBXZl .layerContainer-2v_Sit .backdrop-2ByYRN,
+.theme-dark body .appMount-2yBXZl .layerContainer-2v_Sit .withLayer-2VVmpp {
+  background: rgba(0, 0, 0, 0.85) !important;
+  opacity: 1 !important;
+}
+.theme-dark body .appMount-2yBXZl .layerContainer-2v_Sit .root-g14mjS {
+  background: rgba(255, 255, 255, 0.1337857285);
+}
+.theme-dark body .appMount-2yBXZl .layerContainer-2v_Sit .root-g14mjS .buttonContainer-28osRq {
+  background: var(--undecided-background-secondary);
+}
+.theme-dark body .appMount-2yBXZl .layerContainer-2v_Sit .root-g14mjS .footer-31IekZ {
+  background: var(--undecided-background-secondary);
+}
+.theme-dark body .appMount-2yBXZl .layerContainer-2v_Sit .root-8LYsGj {
+  background: rgba(0, 0, 0, 0.6666666667);
+}
+.theme-dark body .appMount-2yBXZl .layerContainer-2v_Sit .root-8LYsGj .body-1Ukv50,
+.theme-dark body .appMount-2yBXZl .layerContainer-2v_Sit .root-8LYsGj .topSection-13QKHs {
+  background: transparent;
+}
+.theme-dark body .appMount-2yBXZl .layerContainer-2v_Sit .root-8LYsGj .body-1Ukv50 .avatar-3QF_VA,
+.theme-dark body .appMount-2yBXZl .layerContainer-2v_Sit .root-8LYsGj .topSection-13QKHs .avatar-3QF_VA {
+  background: linear-gradient(0deg, transparent 50%, var(--undecided-background-floating) 50%);
+  padding: 8px;
+  border: none;
+}
+.theme-dark body .appMount-2yBXZl .layerContainer-2v_Sit .root-8LYsGj .body-1Ukv50 .avatar-3QF_VA svg,
+.theme-dark body .appMount-2yBXZl .layerContainer-2v_Sit .root-8LYsGj .topSection-13QKHs .avatar-3QF_VA svg {
+  height: 120px;
+}
+.theme-dark body .appMount-2yBXZl .layerContainer-2v_Sit .userPopout-2j1gM4 {
+  background: var(--undecided-background-floating);
+}
+.theme-dark body .appMount-2yBXZl .layerContainer-2v_Sit .userPopout-2j1gM4 .avatar-2Vndt_ {
+  background: linear-gradient(0deg, transparent 50%, var(--undecided-background-floating) 50%);
+  padding: 6px;
+  border: none;
+}
+.theme-dark body .appMount-2yBXZl .layerContainer-2v_Sit .userPopout-2j1gM4 .avatar-2Vndt_ svg {
+  height: 80px;
+}
+.theme-dark body .appMount-2yBXZl .layerContainer-2v_Sit .userPopout-2j1gM4 .bodyInnerWrapper-2bQs1k {
+  background: transparent;
+}
+.theme-dark body .appMount-2yBXZl .layerContainer-2v_Sit .userPopout-2j1gM4 .footer-3naVBw {
+  background: transparent;
+}
+.theme-dark body .appMount-2yBXZl .layerContainer-2v_Sit .userPopout-2j1gM4 .footer-3naVBw .input-2z42oC {
+  background: rgba(255, 255, 255, 0.06973022);
+}
+.theme-dark body .standardSidebarView-E9Pc3j {
+  background: transparent;
+}
+.theme-dark body .standardSidebarView-E9Pc3j .sidebarRegionScroller-FXiQOh {
+  background: var(--undecided-background-secondary);
+}
+.theme-dark body .standardSidebarView-E9Pc3j .contentRegion-3HkfJJ {
+  background: transparent;
+}
+.theme-dark body .standardSidebarView-E9Pc3j .contentRegion-3HkfJJ .contentRegionScroller-2_GT_N {
+  background: transparent;
+}
+.theme-dark body .wrapper-3AZUiP {
+  background-color: black;
+}
+.theme-dark body .container-2RRFHK {
+  background: transparent;
+}
+
+.theme-dark body {
+  /** Background*/
+  background: var(--background-image) !important;
+  background-size: cover !important;
+}
+
+.tutorialContainer-1pL9QS .childWrapper-1j_1ub {
+  background: var(--friends-image) !important;
+  background-repeat: no-repeat !important;
+  background-size: 100% !important;
+  color: transparent !important;
+  border-radius: 100%;
+}
+
+:root {
+  --undecided-background-color: #514d4f;
+  --undecided-background-primary: rgba(0, 0, 0, 0.5);
+  --background-image: url(https://raw.githubusercontent.com/Logos-King/CatGirlTheme/master/background.jpg);
+  --friends-image: url(https://raw.githubusercontent.com/Logos-King/CatGirlTheme/master/friends.jpg);
+  --undecided-background-secondary: rgba(0, 0, 0, 0.5);
+  --undecided-background-tertiary: rgba(0, 0, 0, 0.5);
+  --undecided-background-secondary-alt: rgba(0, 0, 0, 0.5);
+  --undecided-background-floating: rgba(0, 0, 0, 0.95);
+  --undecided-message-input-background: rgba(0, 0, 0, 0.5);
+  --undecided-modal-background: rgba(0, 0, 0, 0.85);
+}
+
+/*# sourceMappingURL=main.css.map */

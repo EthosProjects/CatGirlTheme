@@ -1,9 +1,8 @@
-  
 {
     "name": "LogosKawaii",
-    "version": "0.0.1",
-    "author": "Logos King#0001",
-    "license": "MIT",
-    "theme": "index.css",
-    "description": "A poggies catgirl theme. A moshposh that combines my personal theme with Nebula"
+    "version": "2.0.0",
+    "author": "Ethos#0001",
+    "license": "GNU GPL",
+    "theme": "main.css",
+    "description": "A poggies catgirl theme. Took me a week"
 }
